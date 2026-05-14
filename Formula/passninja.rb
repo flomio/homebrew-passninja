@@ -1,8 +1,8 @@
 class Passninja < Formula
   desc "Command-line interface for the PassNinja API"
   homepage "https://github.com/flomio/passninja-cli"
-  url "https://github.com/flomio/passninja-cli/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "247caf5cdf3a601d3fbffa5decf97409a23a88db18a8a89d96fc656933251b17"
+  url "https://github.com/flomio/passninja-cli/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "ed82c16c06d490180a0ee05eeb718b9f481285266925507c091f05120913182a"
   license "MIT"
 
   depends_on "go" => :build
